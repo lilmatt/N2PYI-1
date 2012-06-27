@@ -1,0 +1,19 @@
+/var/log/aprx/aprx-rf.log {
+        rotate 2
+        size 1M
+        olddir /var/log/aprx
+        nomail
+        compress
+        missingok
+        notifempty
+}
+
+/var/log/aprx/aprx.log {
+        rotate 1
+        size 10000
+        olddir /var/log/aprx
+        nomail
+        compress
+        missingok
+        notifempty
+}
