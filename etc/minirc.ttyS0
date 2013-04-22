@@ -1,0 +1,10 @@
+# Machine-generated file - use "minicom -s" to change parameters.
+pu port             /dev/ttyS0
+pu baudrate         9600
+pu minit
+pu mreset
+pu mhangup
+pu rtscts           No
+pu logfname
+pu logconn          No
+pu logxfer          No
