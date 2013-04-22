@@ -2,8 +2,6 @@
 
 ## An [APRS][1] digipeater and igate, located at my house in Etna, NY.
 
------
-
 ### Hardware:
 - Linksys [WRT54GL][2] wireless router
     - Two serial ports added using Compsys [ST232A][3] TTL to RS232 level shifters
